@@ -138,3 +138,10 @@ sim/                  # Simulation setup
 1. Synthesize the design in **Quartus Prime**.
 2. Program the **DE1-SoC board**.
 3. Use **switches (SW)** to input data and observe results on **LEDs**.
+
+
+### **⚖️ Copyright Notice**
+© 2025 University of Toronto All rights reserved.
+This project complies with the University of Toronto's academic integrity policies & academic integrity guidelines. Redistribution or reuse without explicit permission is strictly prohibited.
+
+For the university’s academic integrity policy, see https://www.academicintegrity.utoronto.ca/
